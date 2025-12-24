@@ -1,0 +1,1279 @@
+### **Chapter 4: Linear Equations in Two Variables**
+
+**1.** The equation of the $x$-axis is
+(a) $x = 0$
+(b) $y = 0$
+(c) $x = y$
+(d) $x + y = 0$
+**Correct Answer:** (b)
+
+**2.** The equation of the $y$-axis is
+(a) $x = 0$
+(b) $y = 0$
+(c) $x = y$
+(d) $x + y = 0$
+**Correct Answer:** (a)
+
+**3.** The point of the form $(a, a)$, $a \ne 0$ lies on
+(a) the $x$-axis
+(b) the $y$-axis
+(c) the line $y = x$
+(d) the line $x + y = 0$
+**Correct Answer:** (c)
+
+**4.** The point of the form $(a, -a)$, $a \ne 0$ lies on
+(a) the $x$-axis
+(b) the $y$-axis
+(c) the line $y = x$
+(d) the line $x + y = 0$
+**Correct Answer:** (d)
+
+**5.** The linear equation $3x - 5y = 15$ has
+(a) a unique solution
+(b) two solutions
+(c) infinitely many solutions
+(d) no solution
+**Correct Answer:** (c)
+
+**6.** The equation $2x + 5y = 7$ has a unique solution, if $x$ and $y$ are
+(a) natural numbers
+(b) rational numbers
+(c) positive real numbers
+(d) real numbers
+**Correct Answer:** (a)
+
+**7.** The graph of $y = 5$ is a line
+(a) making an intercept 5 on the $x$-axis
+(b) making an intercept 5 on the $y$-axis
+(c) parallel to the $x$-axis at a distance of 5 units from the origin
+(d) parallel to the $y$-axis at a distance of 5 units from the origin
+**Correct Answer:** (c)
+
+**8.** The graph of $x = 4$ is a line
+(a) making an intercept 4 on the $x$-axis
+(b) making an intercept 4 on the $y$-axis
+(c) parallel to the $x$-axis at a distance of 4 units from the origin
+(d) parallel to the $y$-axis at a distance of 4 units from the origin
+**Correct Answer:** (d)
+
+**9.** The graph of $x + 3 = 0$ is a line
+(a) making an intercept $-3$ on the $x$-axis
+(b) making an intercept $-3$ on the $y$-axis
+(c) parallel to the $y$-axis at a distance of 3 units to the left of $y$-axis
+(d) parallel to the $x$-axis at a distance of 3 units below the $x$-axis
+**Correct Answer:** (c)
+
+**10.** The graph of $y + 2 = 0$ is a line
+(a) making an intercept of $-2$ on the $x$-axis
+(b) making an intercept of $-2$ on the $y$-axis
+(c) parallel to the $x$-axis at a distance of 2 units below the $x$-axis
+(d) parallel to the $y$-axis at a distance of 2 units to the left of $y$-axis
+**Correct Answer:** (c)
+
+**11.** The graph of the linear equation $2x + 3y = 6$ meets the $y$-axis at the point
+(a) $(2, 0)$
+(b) $(3, 0)$
+(c) $(0, 2)$
+(d) $(0, 3)$
+**Correct Answer:** (c)
+
+**12.** The graph of the linear equation $2x + 5y = 10$ meets the $x$-axis at the point
+(a) $(0, 2)$
+(b) $(2, 0)$
+(c) $(5, 0)$
+(d) $(0, 5)$
+**Correct Answer:** (c)
+
+**13.** The graph of the line $x = 3$ passes through the point
+(a) $(0, 3)$
+(b) $(2, 3)$
+(c) $(3, 2)$
+(d) none of these
+**Correct Answer:** (c)
+
+**14.** The graph of the line $y = 3$ passes through the point
+(a) $(3, 0)$
+(b) $(3, 2)$
+(c) $(2, 3)$
+(d) none of these
+**Correct Answer:** (c)
+
+**15.** The graph of the line $y = -3$ does not pass through the point
+(a) $(2, -3)$
+(b) $(3, -3)$
+(c) $(0, -3)$
+(d) $(-3, 2)$
+**Correct Answer:** (d)
+
+**16.** The graph of the line $x - y = 0$ passes through the point
+(a) $(\frac{-1}{2}, \frac{1}{2})$
+(b) $(\frac{3}{2}, \frac{-3}{2})$
+(c) $(0, -1)$
+(d) $(1, 1)$
+**Correct Answer:** (d)
+
+**17.** Each of the points $(-2, 2), (0, 0), (2, -2)$ satisfies the linear equation
+(a) $x - y = 0$
+(b) $x + y = 0$
+(c) $-x + 2y = 0$
+(d) $x - 2y = 0$
+**Correct Answer:** (b)
+
+**18.** How many linear equations can be satisfied by $x = 2$ and $y = 3$?
+(a) only one
+(b) only two
+(c) only three
+(d) infinitely many
+**Correct Answer:** (d)
+
+**19.** A linear equation in two variables $x$ and $y$ is of the form $ax + by + c = 0$, where
+(a) $a \ne 0, b \ne 0$
+(b) $a \ne 0, b = 0$
+(c) $a = 0, b \ne 0$
+(d) $a = 0, c = 0$
+**Correct Answer:** (a)
+
+**20.** If $(2, 0)$ is a solution of the linear equation $2x + 3y = k$ then the value of $k$ is
+(a) 6
+(b) 5
+(c) 2
+(d) 4
+**Correct Answer:** (d)
+
+**21.** Any point on the $x$-axis is of the form
+(a) $(x, y)$
+(b) $(0, y)$
+(c) $(x, 0)$
+(d) $(x, x)$
+**Correct Answer:** (c)
+
+**22.** Any point on the $y$-axis is of the form
+(a) $(x, y)$
+(b) $(0, y)$
+(c) $(x, 0)$
+(d) $(y, y)$
+**Correct Answer:** (b)
+
+**23.** $x = 5, y = 2$ is a solution of the linear equation
+(a) $x + 2y = 7$
+(b) $5x + 2y = 7$
+(c) $x + y = 7$
+(d) $5x + y = 7$
+**Correct Answer:** (c)
+
+**24.** If the point $(3, 4)$ lies on the graph of $3y = ax + 7$ then the value of $a$ is
+(a) $\frac{2}{5}$
+(b) $\frac{5}{3}$
+(c) $\frac{3}{5}$
+(d) $\frac{2}{7}$
+**Correct Answer:** (b)
+
+### **Chapter 5: Coordinate Geometry**
+
+**1.** In which quadrant does the point $(-7, -4)$ lie?
+(a) IV
+(b) II
+(c) III
+(d) None of these
+**Correct Answer:** (c)
+
+**2.** If $x > 0$ and $y < 0$ then the point $(x, y)$ lies in quadrant
+(a) I
+(b) III
+(c) II
+(d) IV
+**Correct Answer:** (d)
+
+**3.** If $a < 0$ and $b > 0$ then the point $(a, b)$ lies in quadrant
+(a) IV
+(b) II
+(c) III
+(d) none of these
+**Correct Answer:** (b)
+
+**4.** A point both of whose coordinates are negative lies in quadrant
+(a) I
+(b) II
+(c) III
+(d) IV
+**Correct Answer:** (c)
+
+**5.** The point (other than origin) for which abscissa is equal to the ordinate will lie in the quadrant
+(a) I only
+(b) I or II
+(c) I or III
+(d) II or IV
+**Correct Answer:** (c)
+
+**6.** The points $(-5, 3)$ and $(3, -5)$ lie in the
+(a) same quadrant
+(b) II and III quadrants respectively
+(c) II and IV quadrants respectively
+(d) IV and II quadrants respectively
+**Correct Answer:** (c)
+
+**7.** Points $(1, -1), (2, -2), (-3, -4), (4, -5)$
+(a) all lie in the II quadrant
+(b) all lie in the III quadrant
+(c) all lie in the IV quadrant
+(d) do not lie in the same quadrant
+**Correct Answer:** (d)
+
+**8.** Point $(0, -8)$ lies
+(a) in the II quadrant
+(b) in the IV quadrant
+(c) on the $x$-axis
+(d) on the $y$-axis
+**Correct Answer:** (d)
+
+**9.** Point $(-7, 0)$ lies
+(a) on the negative direction of the $x$-axis
+(b) on the negative direction of the $y$-axis
+(c) in the III quadrant
+(d) in the IV quadrant
+**Correct Answer:** (a)
+
+**10.** The point which lies on the $y$-axis at a distance of 5 units in the negative direction of the $y$-axis is
+(a) $(-5, 0)$
+(b) $(0, -5)$
+(c) $(5, 0)$
+(d) $(0, 5)$
+**Correct Answer:** (b)
+
+**11.** The ordinate of every point on the $x$-axis is
+(a) 1
+(b) $-1$
+(c) 0
+(d) any real number
+**Correct Answer:** (c)
+
+**12.** If the $y$-coordinate of a point is zero then this point always lies
+(a) on the $y$-axis
+(b) on the $x$-axis
+(c) in the I quadrant
+(d) in the IV quadrant
+**Correct Answer:** (b)
+
+**13.** If $O(0, 0), A(3, 0), B(3, 4), C(0, 4)$ are four given points then the figure OABC is a
+(a) square
+(b) rectangle
+(c) trapezium
+(d) rhombus
+**Correct Answer:** (b)
+
+**14.** If $A(-2, 3)$ and $B(-3, 5)$ are two given points then (abscissa of A) – (abscissa of B) = ?
+(a) $-2$
+(b) 1
+(c) $-1$
+(d) 2
+**Correct Answer:** (b)
+
+**15.** The perpendicular distance of the point $A(3, 4)$ from the $y$-axis is
+(a) 3
+(b) 4
+(c) 5
+(d) 7
+**Correct Answer:** (a)
+
+**16.** Abscissa of a point is positive in
+(a) I and II quadrants
+(b) I and IV quadrants
+(c) I quadrant only
+(d) II quadrant only
+**Correct Answer:** (b)
+
+**17.** The point at which the two coordinate axes meet is called the
+(a) abscissa
+(b) ordinate
+(c) origin
+(d) quadrant
+**Correct Answer:** (c)
+
+**18.** The point whose ordinate is 3 and which lies on the $y$-axis is
+(a) $(3, 0)$
+(b) $(0, 3)$
+(c) $(3, 3)$
+(d) $(1, 3)$
+**Correct Answer:** (b)
+
+**19.** Which of the following points lies on the line $y = 2x + 3$?
+(a) $(2, 8)$
+(b) $(3, 9)$
+(c) $(4, 12)$
+(d) $(5, 15)$
+**Correct Answer:** (b)
+
+**20.** Which of the following points does not lie on the line $y = 3x + 4$?
+(a) $(1, 7)$
+(b) $(2, 10)$
+(c) $(-1, 1)$
+(d) $(4, 12)$
+**Correct Answer:** (d)
+
+**21.** Which of the following points does not lie in any quadrant?
+(a) $(3, -6)$
+(b) $(-3, 4)$
+(c) $(5, 7)$
+(d) $(0, 3)$
+**Correct Answer:** (d)
+
+**22.** The area of $\Delta AOB$ having vertices $A(0, 6), O(0, 0)$ and $B(6, 0)$ is
+(a) 12 sq units
+(b) 36 sq units
+(c) 18 sq units
+(d) 24 sq units
+**Correct Answer:** (c)
+
+### **Chapter 6: Introduction to Euclid’s Geometry**
+
+**1.** In ancient India, the shapes of altars used for household rituals were
+(a) squares and rectangles
+(b) squares and circles
+(c) triangles and rectangles
+(d) trapeziums and pyramids
+**Correct Answer:** (b)
+
+**2.** In ancient India, altars with combination of shapes like rectangles, triangles and trapeziums were used for
+(a) household rituals
+(b) public rituals
+(c) both (a) and (b)
+(d) none of (a), (b) and (c)
+**Correct Answer:** (b)
+
+**3.** The number of interwoven isosceles triangles in Sriyantra is
+(a) five
+(b) seven
+(c) nine
+(d) eleven
+**Correct Answer:** (c)
+
+**4.** In Indus Valley Civilization (about BC 3000), the bricks used for construction work were having dimensions in the ratio of
+(a) $5 : 3 : 2$
+(b) $4 : 2 : 1$
+(c) $4 : 3 : 2$
+(d) $6 : 4 : 2$
+**Correct Answer:** (b)
+
+**5.** Into how many chapters was the famous treatise, ‘The Elements’ divided by Euclid?
+(a) 13
+(b) 12
+(c) 11
+(d) 9
+**Correct Answer:** (a)
+
+**6.** Euclid belongs to the country
+(a) India
+(b) Greece
+(c) Japan
+(d) Egypt
+**Correct Answer:** (b)
+
+**7.** Thales belongs to the country
+(a) India
+(b) Egypt
+(c) Greece
+(d) Babylonia
+**Correct Answer:** (c)
+
+**8.** Pythagoras was a student of
+(a) Euclid
+(b) Thales
+(c) Archimedes
+(d) Bhaskara
+**Correct Answer:** (b)
+
+**9.** Which of the following needs a proof?
+(a) axiom
+(b) postulate
+(c) definition
+(d) theorem
+**Correct Answer:** (d)
+
+**10.** The statement that ‘the lines are parallel if they do not intersect’ is in the form of
+(a) a definition
+(b) an axiom
+(c) a postulate
+(d) a theorem
+**Correct Answer:** (a)
+
+**11.** Euclid stated that ‘all right angles are equal to each other’, in the form of
+(a) a definition
+(b) an axiom
+(c) a postulate
+(d) a proof
+**Correct Answer:** (c)
+
+**12.** A pyramid is a solid figure, whose base is
+(a) only a triangle
+(b) only a square
+(c) only a rectangle
+(d) any polygon
+**Correct Answer:** (d)
+
+**13.** The side faces of a pyramid are
+(a) triangles
+(b) squares
+(c) trapeziums
+(d) polygons
+**Correct Answer:** (a)
+
+**14.** The number of dimensions of a solid are
+(a) 1
+(b) 2
+(c) 3
+(d) 5
+**Correct Answer:** (c)
+
+**15.** The number of dimensions of a surface is
+(a) 1
+(b) 2
+(c) 3
+(d) 0
+**Correct Answer:** (b)
+
+**16.** How many dimensions does a point have
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+**Correct Answer:** (a)
+
+**17.** Boundaries of solids are
+(a) lines
+(b) curves
+(c) surfaces
+(d) none of these
+**Correct Answer:** (c)
+
+**18.** Boundaries of surfaces are
+(a) lines
+(b) curves
+(c) polygons
+(d) none of these
+**Correct Answer:** (b)
+
+**19.** The number of planes passing through 3 noncollinear points is
+(a) 4
+(b) 3
+(c) 2
+(d) 1
+**Correct Answer:** (d)
+
+**20.** Axioms are assumed
+(a) definitions
+(b) theorems
+(c) universal truths specific to geometry
+(d) universal truths in all branches of mathematics
+**Correct Answer:** (c)
+
+**21.** Which of the following is a true statement?
+(a) The floor and a wall of a room are parallel planes.
+(b) The ceiling and a wall of a room are parallel planes.
+(c) The floor and the ceiling of a room are parallel planes.
+(d) Two adjacent walls of a room are parallel planes.
+**Correct Answer:** (c)
+
+**22.** Which of the following is a true statement?
+(a) Only a unique line can be drawn to pass through a given point.
+(b) Infinitely many lines can be drawn to pass through two given points.
+(c) If two circles are equal, then their radii are equal.
+(d) A line has a definite length.
+**Correct Answer:** (c)
+
+**23.** Which of the following is a false statement?
+(a) An infinite number of lines can be drawn to pass through a given point.
+(b) A unique line can be drawn to pass through two given points.
+(c) Ray $\vec{AB} =$ ray $\vec{BA}$.
+(d) A ray has one end point.
+**Correct Answer:** (c)
+
+### **Chapter 7: Lines and Angles**
+
+**1.** If one angle of a triangle is equal to the sum of the other two angles, then the triangle is
+(a) an isosceles triangle
+(b) an obtuse triangle
+(c) an equilateral triangle
+(d) a right triangle
+**Correct Answer:** (d)
+
+**2.** An exterior angle of a triangle is $110^\circ$ and its two interior opposite angles are equal. Each of these equal angles is
+(a) $70^\circ$
+(b) $55^\circ$
+(c) $35^\circ$
+(d) $27\frac{1}{2}^\circ$
+**Correct Answer:** (b)
+
+**3.** The angles of a triangle are in the ratio $3 : 5 : 7$. The triangle is
+(a) acute angled
+(b) obtuse angled
+(c) right angled
+(d) an isosceles triangle
+**Correct Answer:** (a)
+
+**4.** If one of the angles of a triangle is $130^\circ$ then the angle between the bisectors of the other two angles can be
+(a) $50^\circ$
+(b) $65^\circ$
+(c) $90^\circ$
+(d) $155^\circ$
+**Correct Answer:** (d)
+
+**5.** In the given figure, AOB is a straight line. The value of $x$ is
+(a) 12
+(b) 15
+(c) 20
+(d) 25
+*(Note: Figure shows angles $60^\circ, 5x^\circ, 3x^\circ$ on straight line AOB)*
+**Correct Answer:** (b)
+
+**6.** The angles of a triangle are in the ratio $2 : 3 : 4$. The largest angle of the triangle is
+(a) $120^\circ$
+(b) $100^\circ$
+(c) $80^\circ$
+(d) $60^\circ$
+**Correct Answer:** (c)
+
+**7.** In the given figure, $\angle OAB = 110^\circ$ and $\angle BCD = 130^\circ$ then $\angle ABC$ is equal to
+(a) $40^\circ$
+(b) $50^\circ$
+(c) $60^\circ$
+(d) $70^\circ$
+**Correct Answer:** (c)
+
+**8.** If two angles are complements of each other then each angle is
+(a) an acute angle
+(b) an obtuse angle
+(c) a right angle
+(d) a reflex angle
+**Correct Answer:** (a)
+
+**9.** An angle which measures more than $180^\circ$ but less than $360^\circ$, is called
+(a) an acute angle
+(b) an obtuse angle
+(c) a straight angle
+(d) a reflex angle
+**Correct Answer:** (d)
+
+**10.** The measure of an angle is five times its complement. The angle measures
+(a) $25^\circ$
+(b) $35^\circ$
+(c) $65^\circ$
+(d) $75^\circ$
+**Correct Answer:** (d)
+
+**11.** Two complementary angles are such that twice the measure of the one is equal to three times the measure of the other. The larger of the two measures
+(a) $72^\circ$
+(b) $54^\circ$
+(c) $63^\circ$
+(d) $36^\circ$
+**Correct Answer:** (b)
+
+**12.** In the given figure, AOB is a straight line. If $\angle AOC = 4x^\circ$ and $\angle BOC = 5x^\circ$ then $\angle AOC = ?$
+(a) $40^\circ$
+(b) $60^\circ$
+(c) $80^\circ$
+(d) $100^\circ$
+**Correct Answer:** (c)
+
+**13.** In the given figure, AOB is a straight line. If $\angle AOC = (3x + 10)^\circ$ and $\angle BOC = (4x - 26)^\circ$, then $\angle BOC = ?$
+(a) $96^\circ$
+(b) $86^\circ$
+(c) $76^\circ$
+(d) $106^\circ$
+**Correct Answer:** (b)
+
+**14.** In the given figure, AOB is a straight line. If $\angle AOC = (3x - 10)^\circ$, $\angle COD = 50^\circ$ and $\angle BOD = (x + 20)^\circ$ then $\angle AOC = ?$
+(a) $40^\circ$
+(b) $60^\circ$
+(c) $80^\circ$
+(d) $50^\circ$
+**Correct Answer:** (c)
+
+**15.** Which of the following statements is false?
+(a) Through a given point, only one straight line can be drawn.
+(b) Through two given points, it is possible to draw one and only one straight line.
+(c) Two straight lines can intersect only at one point.
+(d) A line segment can be produced to any desired length.
+**Correct Answer:** (a)
+
+**16.** An angle is one fifth of its supplement. The measure of the angle is
+(a) $15^\circ$
+(b) $30^\circ$
+(c) $75^\circ$
+(d) $150^\circ$
+**Correct Answer:** (b)
+
+**17.** In the adjoining figure, AOB is a straight line. If $x : y : z = 4 : 5 : 6$, then $y = ?$
+(a) $60^\circ$
+(b) $80^\circ$
+(c) $48^\circ$
+(d) $72^\circ$
+**Correct Answer:** (a)
+
+**18.** In the given figure, straight lines AB and CD intersect at O. If $\angle AOC = \phi$, $\angle BOC = \theta$ and $\theta = 3\phi$, then $\phi = ?$
+(a) $30^\circ$
+(b) $40^\circ$
+(c) $45^\circ$
+(d) $60^\circ$
+**Correct Answer:** (c)
+
+**19.** In the given figure, straight lines AB and CD intersect at O. If $\angle AOC + \angle BOD = 130^\circ$ then $\angle AOD = ?$
+(a) $65^\circ$
+(b) $115^\circ$
+(c) $110^\circ$
+(d) $125^\circ$
+**Correct Answer:** (b)
+
+**20.** In the given figure, AB is a mirror, PQ is the incident ray and QR is the reflected ray. If $\angle PQR = 108^\circ$ then $\angle AQP = ?$
+(a) $72^\circ$
+(b) $18^\circ$
+(c) $36^\circ$
+(d) $54^\circ$
+**Correct Answer:** (c)
+
+**21.** In the given figure, $AB \parallel CD$. If $\angle BAO = 60^\circ$ and $\angle OCD = 110^\circ$ then $\angle AOC = ?$
+(a) $70^\circ$
+(b) $60^\circ$
+(c) $50^\circ$
+(d) $40^\circ$
+**Correct Answer:** (c)
+
+**22.** In the given figure, $AB \parallel CD$. If $\angle AOC = 30^\circ$ and $\angle OAB = 100^\circ$ then $\angle OCD = ?$
+(a) $130^\circ$
+(b) $150^\circ$
+(c) $80^\circ$
+(d) $100^\circ$
+**Correct Answer:** (a)
+
+**23.** In the given figure, $AB \parallel CD$. If $\angle CAB = 180^\circ$ and $\angle EFC = 25^\circ$ then $\angle CEF = ?$
+(a) $65^\circ$
+(b) $55^\circ$
+(c) $45^\circ$
+(d) $75^\circ$
+**Correct Answer:** (b)
+
+**24.** In the given figure $AB \parallel CD$ and $CD \parallel EF$. If $y : z = 3 : 7$ then $x = ?$
+(a) $108^\circ$
+(b) $126^\circ$
+(c) $162^\circ$
+(d) $63^\circ$
+**Correct Answer:** (b)
+
+**25.** In the given figure, $AB \parallel CD$. If $\angle APQ = 70^\circ$ and $\angle PRD = 120^\circ$ then $\angle QPR = ?$
+(a) $50^\circ$
+(b) $60^\circ$
+(c) $40^\circ$
+(d) $35^\circ$
+**Correct Answer:** (a)
+
+**26.** In the given figure, $AB \parallel CD$. If $\angle EAB = 50^\circ$ and $\angle ECD = 60^\circ$ then $\angle AEB = ?$
+(a) $50^\circ$
+(b) $60^\circ$
+(c) $70^\circ$
+(d) $55^\circ$
+**Correct Answer:** (c)
+
+**27.** In the given figure, $\angle OAB = 75^\circ$, $\angle OBA = 55^\circ$ and $\angle OCD = 100^\circ$. Then, $\angle ODC = ?$
+(a) $20^\circ$
+(b) $25^\circ$
+(c) $30^\circ$
+(d) $35^\circ$
+**Correct Answer:** (c)
+
+**28.** In the adjoining figure, what is the value of $y$?
+(a) 36
+(b) 54
+(c) 63
+(d) 72
+*(Note: Figure has a triangle with exterior angle $x^\circ$ and interior opp angles $y^\circ$ and $90^\circ$, also exterior angle $72^\circ$ and interior angle $3x^\circ$)*
+**Correct Answer:** (b)
+
+### **Chapter 8: Triangles**
+
+**1.** In a $\Delta ABC$, if $3\angle A = 4\angle B = 6\angle C$ then $A : B : C = ?$
+(a) $3 : 4 : 6$
+(b) $4 : 3 : 2$
+(c) $2 : 3 : 4$
+(d) $6 : 4 : 3$
+**Correct Answer:** (b)
+
+**2.** In a $\Delta ABC$, if $\angle A - \angle B = 42^\circ$ and $\angle B - \angle C = 21^\circ$ then $\angle B = ?$
+(a) $32^\circ$
+(b) $63^\circ$
+(c) $53^\circ$
+(d) $95^\circ$
+**Correct Answer:** (c)
+
+**3.** In a $\Delta ABC$, side BC is produced to D. If $\angle ABC = 50^\circ$ and $\angle ACD = 110^\circ$ then $\angle A = ?$
+(a) $160^\circ$
+(b) $60^\circ$
+(c) $80^\circ$
+(d) $30^\circ$
+**Correct Answer:** (b)
+
+**4.** Side BC of $\Delta ABC$ has been produced to D on left and to E on right-hand side of BC such that $\angle ABD = 125^\circ$ and $\angle ACE = 130^\circ$. Then, $\angle A = ?$
+(a) $50^\circ$
+(b) $55^\circ$
+(c) $65^\circ$
+(d) $75^\circ$
+**Correct Answer:** (d)
+
+**5.** In the given figure, the sides CB and BA of $\Delta ABC$ have been produced to D and E respectively such that $\angle ABD = 110^\circ$ and $\angle CAE = 135^\circ$. Then, $\angle ACB = ?$
+(a) $65^\circ$
+(b) $45^\circ$
+(c) $55^\circ$
+(d) $35^\circ$
+**Correct Answer:** (a)
+
+**6.** The sides BC, CA and AB of $\Delta ABC$ have been produced to D, E and F respectively. $\angle BAE + \angle CBF + \angle ACD = ?$
+(a) $240^\circ$
+(b) $300^\circ$
+(c) $320^\circ$
+(d) $360^\circ$
+**Correct Answer:** (d)
+
+**7.** In the given figure, $EAD \perp BCD$. Ray FAC cuts ray EAD at a point A such that $\angle EAF = 30^\circ$. Also, in $\Delta BAC, \angle BAC = x^\circ$ and $\angle ABC = (x + 10)^\circ$. Then, the value of $x$ is
+(a) 20
+(b) 25
+(c) 30
+(d) 35
+**Correct Answer:** (b)
+
+**8.** In the given figure, two rays BD and CE intersect at a point A. The side BC of $\Delta ABC$ have been produced on both sides to points F and G respectively. If $\angle ABF = x^\circ$, $\angle ACG = y^\circ$ and $\angle DAE = z^\circ$ then $z = ?$
+(a) $x + y - 180$
+(b) $x + y + 180$
+(c) $180 - (x + y)$
+(d) $x + y + 360^\circ$
+**Correct Answer:** (a)
+
+**9.** In the given figure, lines AB and CD intersect at a point O. The sides CA and OB have been produced to E and F respectively such that $\angle OAE = x^\circ$ and $\angle DBF = y^\circ$. If $\angle OCA = 80^\circ$, $\angle COA = 40^\circ$ and $\angle BDO = 70^\circ$ then $x^\circ + y^\circ = ?$
+(a) $190^\circ$
+(b) $230^\circ$
+(c) $210^\circ$
+(d) $270^\circ$
+**Correct Answer:** (b)
+
+**10.** In a $\Delta ABC$, it is given that $\angle A : \angle B : \angle C = 3 : 2 : 1$ and $\angle ACD = 90^\circ$. If BC is produced to E then $\angle ECD = ?$
+(a) $60^\circ$
+(b) $50^\circ$
+(c) $40^\circ$
+(d) $25^\circ$
+**Correct Answer:** (a)
+
+**11.** In the given figure, BO and CO are the bisectors of $\angle B$ and $\angle C$ respectively. If $\angle A = 50^\circ$ then $\angle BOC = ?$
+(a) $130^\circ$
+(b) $100^\circ$
+(c) $115^\circ$
+(d) $120^\circ$
+**Correct Answer:** (c)
+
+**12.** In the given figure, side BC of $\Delta ABC$ has been produced to a point D. If $\angle A = 3y^\circ$, $\angle B = x^\circ$, $\angle C = 5y^\circ$ and $\angle CBD = 7y^\circ$. Then, the value of $x$ is
+(a) 60
+(b) 50
+(c) 45
+(d) 35
+**Correct Answer:** (a)
+
+### **Chapter 9: Congruence of Triangles and Inequalities**
+
+**1.** Which of the following is not a criterion for congruence of triangles?
+(a) SSA
+(b) SAS
+(c) ASA
+(d) SSS
+**Correct Answer:** (a)
+
+**2.** If $AB = QR, BC = RP$ and $CA = PQ$ then which of the following holds?
+(a) $\Delta ABC \cong \Delta PQR$
+(b) $\Delta CBA \cong \Delta PQR$
+(c) $\Delta CAB \cong \Delta PQR$
+(d) $\Delta BCA \cong \Delta PQR$
+**Correct Answer:** (c)
+
+**3.** If $\Delta ABC \cong \Delta PQR$ then which of the following is not true?
+(a) $BC = PQ$
+(b) $AC = PR$
+(c) $BC = QR$
+(d) $AB = PQ$
+**Correct Answer:** (a)
+
+**4.** In $\Delta ABC, AB = AC$ and $\angle B = 50^\circ$. Then, $\angle A = ?$
+(a) $40^\circ$
+(b) $50^\circ$
+(c) $80^\circ$
+(d) $130^\circ$
+**Correct Answer:** (c)
+
+**5.** In $\Delta ABC, BC = AB$ and $\angle B = 80^\circ$. Then, $\angle A = ?$
+(a) $50^\circ$
+(b) $40^\circ$
+(c) $100^\circ$
+(d) $80^\circ$
+**Correct Answer:** (a)
+
+**6.** In $\Delta ABC, \angle C = \angle A, BC = 4$ cm and $AC = 5$ cm. Then, $AB = ?$
+(a) 4 cm
+(b) 5 cm
+(c) 8 cm
+(d) 2.5 cm
+**Correct Answer:** (d)
+
+**7.** Two sides of a triangle are of length 4 cm and 2.5 cm. The length of the third side of the triangle cannot be
+(a) 6 cm
+(b) 6.5 cm
+(c) 5.5 cm
+(d) 6.3 cm
+**Correct Answer:** (b)
+
+**8.** In $\Delta ABC$, if $\angle C > \angle B$, then
+(a) $BC > AC$
+(b) $AB > AC$
+(c) $AB < AC$
+(d) $BC < AC$
+**Correct Answer:** (a)
+
+**9.** It is given that $\Delta ABC \cong \Delta FDE$ in which $AB = 5$ cm, $\angle B = 40^\circ$, $\angle A = 80^\circ$ and $FD = 5$ cm. Then, which of the following is true?
+(a) $\angle D = 60^\circ$
+(b) $\angle E = 60^\circ$
+(c) $\angle F = 60^\circ$
+(d) $\angle D = 80^\circ$
+**Correct Answer:** (b)
+
+**10.** In $\Delta ABC, \angle A = 40^\circ$ and $\angle B = 60^\circ$. Then, the longest side of $\Delta ABC$ is
+(a) BC
+(b) AC
+(c) AB
+(d) cannot be determined
+**Correct Answer:** (a)
+
+**11.** In the given figure, $AB > AC$. Then, which of the following is true?
+(a) $AB < AD$
+(b) $AB = AD$
+(c) $AB > AD$
+(d) Cannot be determined
+**Correct Answer:** (c)
+
+**12.** In the given figure, $AB > AC$. If BO and CO are the bisectors of $\angle B$ and $\angle C$ respectively then
+(a) $OB = OC$
+(b) $OB > OC$
+(c) $OB < OC$
+**Correct Answer:** (b)
+
+**13.** In the given figure, $AB = AC$ and $OB = OC$. Then, $\angle ABO : \angle ACO = ?$
+(a) $1 : 1$
+(b) $2 : 1$
+(c) $1 : 2$
+(d) none of these
+**Correct Answer:** (a)
+
+**14.** If the altitudes from two vertices of a triangle to the opposite sides are equal then the triangle is
+(a) equilateral
+(b) isosceles
+(c) scalene
+(d) right angled
+**Correct Answer:** (b)
+
+**15.** In $\Delta ABC$ and $\Delta DEF$, it is given that $AB = DE$ and $BC = EF$. In order that $\Delta ABC \cong \Delta DEF$, we must have
+(a) $\angle A = \angle D$
+(b) $\angle B = \angle E$
+(c) $\angle C = \angle F$
+(d) none of these
+**Correct Answer:** (b)
+
+**16.** In $\Delta ABC$ and $\Delta DEF$, it is given that $\angle B = \angle E$ and $\angle C = \angle F$. In order that $\Delta ABC \cong \Delta DEF$, we must have
+(a) $AB = DF$
+(b) $AC = DE$
+(c) $BC = EF$
+(d) $\angle A = \angle D$
+**Correct Answer:** (c)
+
+**17.** In $\Delta ABC$ and $\Delta PQR$, it is given that $AB = AC$, $\angle C = \angle P$ and $\angle B = \angle Q$. Then, the two triangles are
+(a) isosceles but not congruent
+(b) isosceles and congruent
+(c) congruent but not isosceles
+(d) neither congruent nor isosceles
+**Correct Answer:** (a)
+
+**18.** Which is true?
+(a) A triangle can have two right angles.
+(b) A triangle can have two obtuse angles.
+(c) A triangle can have two acute angles.
+(d) An exterior angle of a triangle is less than either of the interior opposite angles.
+**Correct Answer:** (c)
+
+**19.** Fill in the blanks with < or >.
+(a) (Sum of any two sides of a triangle) ...... (the third side).
+(b) (Difference of any two sides of a triangle) ...... (the third side).
+(c) (Sum of three altitudes of a triangle) ...... (sum of its three sides).
+(d) (Sum of any two sides of a triangle) ...... (twice the median to the 3rd side).
+(e) (Perimeter of a triangle) ...... (sum of its three medians).
+**Correct Answer:** (a) > (b) < (c) < (d) > (e) >
+
+**20.** Fill in the blanks.
+(a) Each angle of an equilateral triangle measures ...... .
+(b) Medians of an equilateral triangle are ...... .
+(c) In a right triangle, the hypotenuse is the ...... side.
+(d) Drawing a $\Delta ABC$ with $AB = 3$ cm, $BC = 4$ cm and $CA = 7$ cm is ...... .
+**Correct Answer:** (a) 60° (b) equal (c) longest (d) not possible
+
+### **Chapter 10: Quadrilaterals**
+
+**1.** Three angles of a quadrilateral are $80^\circ$, $95^\circ$ and $112^\circ$. Its fourth angle is
+(a) $78^\circ$
+(b) $73^\circ$
+(c) $85^\circ$
+(d) $100^\circ$
+**Correct Answer:** (b)
+
+**2.** The angles of a quadrilateral are in the ratio $3 : 4 : 5 : 6$. The smallest of these angles is
+(a) $45^\circ$
+(b) $60^\circ$
+(c) $36^\circ$
+(d) $48^\circ$
+**Correct Answer:** (b)
+
+**3.** In the adjoining figure, ABCD is a parallelogram in which $\angle BAD = 75^\circ$ and $\angle CBD = 60^\circ$. Then, $\angle BDC = ?$
+(a) $60^\circ$
+(b) $75^\circ$
+(c) $45^\circ$
+(d) $50^\circ$
+**Correct Answer:** (c)
+
+**4.** ABCD is a rhombus such that $\angle ACB = 50^\circ$. Then, $\angle ADB = ?$
+(a) $40^\circ$
+(b) $25^\circ$
+(c) $65^\circ$
+(d) $130^\circ$
+**Correct Answer:** (a)
+
+**5.** In which of the following figures are the diagonals equal?
+(a) Parallelogram
+(b) Rhombus
+(c) Trapezium
+(d) Rectangle
+**Correct Answer:** (d)
+
+**6.** If the diagonals of a quadrilateral bisect each other at right angles then the figure is a
+(a) trapezium
+(b) parallelogram
+(c) rectangle
+(d) rhombus
+**Correct Answer:** (d)
+
+**7.** The lengths of the diagonals of a rhombus are 16 cm and 12 cm. The length of each side of the rhombus is
+(a) 10 cm
+(b) 12 cm
+(c) 9 cm
+(d) 8 cm
+**Correct Answer:** (a)
+
+**8.** The length of each side of a rhombus is 10 cm and one of its diagonals is of length 16 cm. The length of the other diagonal is
+(a) 13 cm
+(b) 12 cm
+(c) $2\sqrt{39}$ cm
+(d) 6 cm
+**Correct Answer:** (b)
+
+**9.** A diagonal of a rectangle is inclined to one side of the rectangle at $35^\circ$. The acute angle between the diagonals is
+(a) $55^\circ$
+(b) $70^\circ$
+(c) $45^\circ$
+(d) $50^\circ$
+**Correct Answer:** (b)
+
+**10.** If ABCD is a parallelogram with two adjacent angles $\angle A = \angle B$ then the parallelogram is a
+(a) rhombus
+(b) trapezium
+(c) rectangle
+(d) none of these
+**Correct Answer:** (c)
+
+**11.** In a quadrilateral ABCD, AO and BO are the bisectors of $\angle A$ and $\angle B$ respectively, $\angle C = 70^\circ$ and $\angle D = 30^\circ$. Then, $\angle AOB = ?$
+(a) $40^\circ$
+(b) $50^\circ$
+(c) $80^\circ$
+(d) $100^\circ$
+**Correct Answer:** (b)
+
+**12.** The bisectors of any two adjacent angles of a parallelogram intersect at
+(a) $30^\circ$
+(b) $45^\circ$
+(c) $60^\circ$
+(d) $90^\circ$
+**Correct Answer:** (d)
+
+**13.** The bisectors of the angles of a parallelogram enclose a
+(a) rhombus
+(b) square
+(c) rectangle
+(d) parallelogram
+**Correct Answer:** (c)
+
+**14.** If bisectors of $\angle A$ and $\angle B$ of a quadrilateral ABCD intersect each other at P, of $\angle B$ and $\angle C$ at Q, of $\angle C$ and $\angle D$ at R and of $\angle D$ and $\angle A$ at S then PQRS is a
+(a) rectangle
+(b) parallelogram
+(c) rhombus
+(d) quadrilateral whose opposite angles are supplementary
+**Correct Answer:** (d)
+
+**15.** The figure formed by joining the midpoints of the adjacent sides of a quadrilateral is a
+(a) rhombus
+(b) square
+(c) rectangle
+(d) parallelogram
+**Correct Answer:** (d)
+
+**16.** The figure formed by joining the midpoints of the adjacent sides of a square is a
+(a) rhombus
+(b) square
+(c) rectangle
+(d) parallelogram
+**Correct Answer:** (b)
+
+**17.** The figure formed by joining the midpoints of the adjacent sides of a parallelogram is a
+(a) rhombus
+(b) square
+(c) rectangle
+(d) parallelogram
+**Correct Answer:** (d)
+
+**18.** The figure formed by joining the midpoints of the adjacent sides of a rectangle is a
+(a) rhombus
+(b) square
+(c) rectangle
+(d) parallelogram
+**Correct Answer:** (a)
+
+**19.** The figure formed by joining the midpoints of the adjacent sides of a rhombus is a
+(a) rhombus
+(b) square
+(c) rectangle
+(d) parallelogram
+**Correct Answer:** (c)
+
+**20.** The quadrilateral formed by joining the midpoints of the sides of a quadrilateral ABCD, taken in order, is a rectangle, if
+(a) ABCD is a parallelogram
+(b) ABCD is a rectangle
+(c) diagonals of ABCD are equal
+(d) diagonals of ABCD are perpendicular to each other
+**Correct Answer:** (d)
+
+**21.** The quadrilateral formed by joining the midpoints of the sides of a quadrilateral ABCD, taken in order, is a rhombus, if
+(a) ABCD is a parallelogram
+(b) ABCD is a rhombus
+(c) diagonals of ABCD are equal
+(d) diagonals of ABCD are perpendicular to each other
+**Correct Answer:** (c)
+
+**22.** The figure formed by joining the midpoints of the sides of a quadrilateral ABCD, taken in order, is a square, only if
+(a) ABCD is a rhombus
+(b) diagonals of ABCD are equal
+(c) diagonals of ABCD are perpendicular
+(d) diagonals of ABCD are equal and perpendicular
+**Correct Answer:** (d)
+
+**23.** If an angle of a parallelogram is two thirds of its adjacent angle, the smallest angle of the parallelogram is
+(a) $108^\circ$
+(b) $54^\circ$
+(c) $72^\circ$
+(d) $81^\circ$
+**Correct Answer:** (c)
+
+**24.** If one angle of a parallelogram is $24^\circ$ less than twice the smallest angle then the largest angle of the parallelogram is
+(a) $68^\circ$
+(b) $102^\circ$
+(c) $112^\circ$
+(d) $136^\circ$
+**Correct Answer:** (b)
+
+**25.** If $\angle A, \angle B, \angle C$ and $\angle D$ of a quadrilateral ABCD, taken in order, are in the ratio $3 : 7 : 6 : 4$ then ABCD is a
+(a) rhombus
+(b) kite
+(c) trapezium
+(d) parallelogram
+**Correct Answer:** (a)
+
+**26.** Which of the following is not true for a parallelogram?
+(a) Opposite sides are equal.
+(b) Opposite angles are equal.
+(c) Opposite angles are bisected by the diagonals.
+(d) Diagonals bisect each other.
+**Correct Answer:** (c)
+
+**27.** If APB and CQD are two parallel lines then the bisectors of $\angle APQ$, $\angle BPQ$, $\angle CQP$ and $\angle PQD$ enclose a
+(a) square
+(b) rhombus
+(c) rectangle
+(d) kite
+**Correct Answer:** (c)
+
+**28.** In the given figure, ABCD is a parallelogram in which $\angle BDC = 45^\circ$ and $\angle BAD = 75^\circ$. Then, $\angle CBD = ?$
+(a) $45^\circ$
+(b) $55^\circ$
+(c) $60^\circ$
+(d) $75^\circ$
+**Correct Answer:** (c)
+
+**29.** If area of a $\parallel$gm with sides $a$ and $b$ is $A$ and that of a rectangle with sides $a$ and $b$ is $B$ then
+(a) $A > B$
+(b) $A = B$
+(c) $A < B$
+(d) $A \ge B$
+**Correct Answer:** (c)
+
+**30.** In the given figure, ABCD is a $\parallel$gm and E is the midpoint of BC. Also, DE and AB when produced meet at F. Then,
+(a) $AF = \frac{3}{2}AB$
+(b) $AF = 2AB$
+(c) $AF = 3AB$
+(d) $AF^2 = 2AB^2$
+**Correct Answer:** (b)
+
+**31.** P is any point on the side BC of a $\Delta ABC$. P is joined to A. If D and E are the midpoints of the sides AB and AC respectively and M and N are the midpoints of BP and CP respectively then quadrilateral DENM is
+(a) a trapezium
+(b) a parallelogram
+(c) a rectangle
+(d) a rhombus
+**Correct Answer:** (b)
+
+**32.** The parallel sides of a trapezium are $a$ and $b$ respectively. The line joining the midpoints of its nonparallel sides will be
+(a) $\frac{1}{2}(a - b)$
+(b) $\frac{1}{2}(a + b)$
+(c) $\frac{2ab}{(a + b)}$
+(d) $\sqrt{ab}$
+**Correct Answer:** (b)
+
+**33.** In a trapezium ABCD, E and F be the midpoints of the diagonals AC and BD respectively. Then, $EF = ?$
+(a) $\frac{1}{2}AB$
+(b) $\frac{1}{2}CD$
+(c) $\frac{1}{2}(AB + CD)$
+(d) $\frac{1}{2}(AB - CD)$
+**Correct Answer:** (d)
+
+**34.** In the given figure, ABCD is a parallelogram, M is the midpoint of BD and BD bisects $\angle B$ as well as $\angle D$. Then, $\angle AMB = ?$
+(a) $45^\circ$
+(b) $60^\circ$
+(c) $90^\circ$
+(d) $30^\circ$
+**Correct Answer:** (c)
+
+**35.** In the given figure, ABCD is a rhombus. Then,
+(a) $AC^2 + BD^2 = AB^2$
+(b) $AC^2 + BD^2 = 2AB^2$
+(c) $AC^2 + BD^2 = 4AB^2$
+(d) $2(AC^2 + BD^2) = 3AB^2$
+**Correct Answer:** (c)
+
+**36.** In a trapezium ABCD, if $AB \parallel CD$ then $(AC^2 + BD^2) = ?$
+(a) $BC^2 + AD^2 + 2BC \cdot AD$
+(b) $AB^2 + CD^2 + 2AB \cdot CD$
+(c) $AB^2 + CD^2 + 2AD \cdot BC$
+(d) $BC^2 + AD^2 + 2AB \cdot CD$
+**Correct Answer:** (d)
+
+**37.** Two parallelograms stand on equal bases and between the same parallels. The ratio of their areas is
+(a) $1 : 2$
+(b) $2 : 1$
+(c) $1 : 3$
+(d) $1 : 1$
+**Correct Answer:** (d)
+
+**38.** In the given figure, AD is a median of $\Delta ABC$ and E is the midpoint of AD. If BE is joined and produced to meet AC in F then $AF = ?$
+(a) $\frac{1}{2}AC$
+(b) $\frac{1}{3}AC$
+(c) $\frac{2}{3}AC$
+(d) $\frac{3}{4}AC$
+**Correct Answer:** (b)
+
+**39.** The diagonals AC and BD of a parallelogram ABCD intersect each other at the point O such that $\angle DAC = 30^\circ$ and $\angle AOB = 70^\circ$. Then, $\angle DBC = ?$
+(a) $40^\circ$
+(b) $35^\circ$
+(c) $45^\circ$
+(d) $50^\circ$
+**Correct Answer:** (a)
+
+**40.** Three statements are given below:
+I. In a $\parallel$gm, the angle bisectors of two adjacent angles enclose a right angle.
+II. The angle bisectors of a $\parallel$gm form a rectangle.
+III. The triangle formed by joining the midpoints of the sides of an isosceles triangle is not necessarily an isosceles triangle.
+Which is true?
+(a) I only
+(b) II only
+(c) I and II
+(d) II and III
+**Correct Answer:** (c)
+
+**41.** Three statements are given below:
+I. In a rectangle ABCD, the diagonal AC bisects $\angle A$ as well as $\angle C$.
+II. In a square ABCD, the diagonal AC bisects $\angle A$ as well as $\angle C$.
+III. In a rhombus ABCD, the diagonal AC bisects $\angle A$ as well as $\angle C$.
+Which is true?
+(a) I only
+(b) II and III
+(c) I and III
+(d) I and II
+**Correct Answer:** (b)
+
+**Data-Sufficiency-Based MCQ**
+**53.** Is quadrilateral ABCD a $\parallel$gm?
+I. Diagonals AC and BD bisect each other.
+II. Diagonals AC and BD are equal.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (a)
+
+**54.** Is quadrilateral ABCD a rhombus?
+I. Quadrilateral ABCD is a $\parallel$gm.
+II. Diagonals AC and BD are perpendicular to each other.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (c)
+
+**55.** Is $\parallel$gm ABCD a square?
+I. Diagonals of $\parallel$gm ABCD are equal.
+II. Diagonals of $\parallel$gm ABCD intersect at right angles.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (c)
+
+**56.** Is quadrilateral ABCD a parallelogram?
+I. Its opposite sides are equal.
+II. Its opposite angles are equal.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (b)
+
+**Assertion-and-Reason Type MCQ**
+**57.** Assertion (A): If three angles of a quadrilateral are $130^\circ$, $70^\circ$ and $60^\circ$ then the fourth angle is $100^\circ$.
+Reason (R): The sum of all the angle of a quadrilateral is $360^\circ$.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (a)
+
+**58.** Assertion (A): ABCD is a quadrilateral in which P, Q, R and S are the midpoints of AB, BC, CD and DA respectively. Then, PQRS is a parallelogram.
+Reason (R): The line segment joining the midpoints of any two sides of a triangle is parallel to the third side and equal to half of it.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (a)
+
+**59.** Assertion (A): In a rhombus ABCD, the diagonal AC bisects $\angle A$ as well as $\angle C$.
+Reason (R): The diagonals of a rhombus bisect each other at right angles.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (b)
+
+**60.** Assertion (A): Every parallelogram is a rectangle.
+Reason (R): The angle bisectors of a parallelogram form a rectangle.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (d)
+
+**61.** Assertion (A): The diagonals of a $\parallel$gm bisect each other.
+Reason (R): If the diagonals of a $\parallel$gm are equal and intersect at right angles then the parallelogram is a square.
+The correct answer is: (a)/(b)/(c)/(d).
+**Correct Answer:** (d)
+
+**Matching of Columns**
+**62.** Match the following columns:
+(a) Angle bisectors of a parallelogram form a ... (p) parallelogram
+(b) The quadrilateral formed by joining the midpoints of the pairs of adjacent sides of a square is a ... (q) rectangle
+(c) The quadrilateral formed by joining the midpoints of the pairs of adjacent sides of a rectangle is a ... (r) square
+(d) The figure formed by joining the midpoints of the pairs of adjacent sides of a quadrilateral is a ... (s) rhombus
+**Correct Answer:** (a)-(q), (b)-(r), (c)-(s), (d)-(p)
+
+**63.** Match the following columns:
+(a) In the given figure, ABCD is a trapezium in which $AB = 10$ cm and $CD = 7$ cm. If P and Q are the midpoints of AD and BC respectively then $PQ =$ ... (p) equal
+(b) In the given figure, PQRS is a $\parallel$gm whose diagonals intersect at O. If $PR = 13$ cm, then $QR =$ ... (q) at right angles
+(c) The diagonals of a square are ... (r) 8.5 cm
+(d) The diagonals of a rhombus bisect each other ... (s) 6.5 cm
+**Correct Answer:** (a)-(r), (b)-(s), (c)-(p), (d)-(q)
