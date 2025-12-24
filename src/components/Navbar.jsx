@@ -4,8 +4,7 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
     return (
         <nav style={{
-            borderBottom: '1px solid var(--border-color)',
-            padding: '1rem 2rem',
+            padding: '1rem 1rem',
             background: 'rgba(15, 23, 42, 0.8)',
             backdropFilter: 'blur(10px)',
             position: 'sticky',
@@ -20,7 +19,7 @@ const Navbar = () => {
             }}>
                 <Link to="/" style={{
                     textDecoration: 'none',
-                    fontSize: '1.5rem',
+                    fontSize: '1.2rem',
                     fontWeight: 'bold',
                     background: 'linear-gradient(to right, #3b82f6, #8b5cf6)',
                     WebkitBackgroundClip: 'text',
