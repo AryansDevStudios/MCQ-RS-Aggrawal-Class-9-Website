@@ -21,7 +21,7 @@ function App() {
         color: '#64748b',
         fontSize: '0.875rem'
       }}>
-        © 2025 MathMaster MCQ. Built with React & Vite.
+        © 2025 AryansDevStudios | Aryan Gupta
       </footer>
     </Router>
   );

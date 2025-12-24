@@ -13,7 +13,6 @@ const Navbar = () => {
             zIndex: 100
         }}>
             <div style={{
-                maxWidth: '1200px',
                 margin: '0 auto',
                 display: 'flex',
                 justifyContent: 'space-between',
@@ -27,11 +26,8 @@ const Navbar = () => {
                     WebkitBackgroundClip: 'text',
                     WebkitTextFillColor: 'transparent'
                 }}>
-                    MathMaster MCQ
+                    MCQ RS Aggrawal Class 9
                 </Link>
-                <div style={{ display: 'flex', gap: '1rem' }}>
-                    <Link to="/" style={{ color: 'var(--text-color)', textDecoration: 'none' }}>Home</Link>
-                </div>
             </div>
         </nav>
     );
